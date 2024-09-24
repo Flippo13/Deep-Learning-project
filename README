@@ -1,1 +1,2 @@
-Goal of the project was to learn how adversarial attacks can influence machine learning models by reducing their accuracy. 
+This project and the corresponding report describes the implementation of an adversarial attack, (AutoAttack (Croce & Hein, 2020)) to a Residual Network (ResNet18 ), trained to classify the different 1st generation Pokemons, as well as the implementation of an adversarial defense (FFT-based
+defence inspired by (Lorenz et al., 2021) and (Zhang et al., 2019)), to protect the network from the proposed attack.
